@@ -1,0 +1,10 @@
+{  
+    "data":{
+    
+            "name"    : "宝藏捕鱼",
+            "bundle-version" : 1.0,
+            "build-version" : 1,
+            "updateContent" : "更多惊喜，尽在宝藏捕鱼",
+            "download-url"  : "https://github.com/tt168ttkx/download/raw/main/manifest.plist"
+    }
+}

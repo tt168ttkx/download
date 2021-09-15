@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://43.241.48.90:10089/download/ios/57.png</string>
+					<string>http://43.241.48.90:10089/download/ios/bzby57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://43.241.48.90:10089/download/ios/512.png</string>
+					<string>http://43.241.48.90:10089/download/ios/bzby512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
